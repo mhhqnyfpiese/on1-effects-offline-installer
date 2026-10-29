@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Photo+Effects-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Photo+Effect-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 ON1 Effects Free Installer** — ON1 Effects is a non-destructive photo effects application for Windows and macOS with hundreds of photographic presets, filters, and artistic effects. Works without internet access, no account required. Full offline installation.
+**💻 ON1 Effects Free Installer** — ON1 Effects is a collection of photo effects and filters including HDR looks, film grain, vintage effects, and creative filters. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About ON1 Effects
 
-ON1 Effects is a non-destructive photo effects application for Windows and macOS with hundreds of photographic presets, filters, and artistic effects. Apply and layer effects, masks, and adjustments with a live preview. Works as a standalone application and as a plugin for Lightroom, Photoshop, and Capture One, providing a streamlined effects workflow without leaving your primary editing application.
+ON1 Effects is a collection of photo effects and filters including HDR looks, film grain, vintage effects, and creative filters. Available as a standalone app or Lightroom/Photoshop plugin, it provides a large library of non-destructive creative effects.
 
 ---
 
 ## ❌ Problem: ON1 Effects is hard to access
 
-- **Commercial License** — Subscription or one-time purchase
-- **Lightroom Integration** — Full power requires using within photography workflow
-- **Competition** — Many photographers use free presets achieving similar results
-- **Performance** — Some effect combinations can slow preview rendering
+- **Paid License** — Requires purchase; subscription available
+- **Effect Library Focus** — Less general editing capability than full photo editors
+- **ON1 Ecosystem** — Best value as part of the ON1 Photo RAW complete suite
+- **Competition** — Luminar Neo and Exposure offer similar creative effect libraries
 
 ---
 
@@ -121,7 +121,7 @@ ON1 Effects is a non-destructive photo effects application for Windows and macOS
 
 ---
 
-**ON1 Effects Free Installer** — ON1 Effects is a non-destructive photo effects application for Windows and macOS with hundreds of photographic presets, filters, and artistic effects. Install without internet connection today!
+**ON1 Effects Free Installer** — ON1 Effects is a collection of photo effects and filters including HDR looks, film grain, vintage effects, and creative filters. Install without internet connection today!
 
 <div align="center">
 
